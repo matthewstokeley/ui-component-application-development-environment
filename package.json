@@ -37,7 +37,7 @@
     "karma-allure-reporter": "^1.4.5",
     "lighthouse-ci": "^1.10.0",
     "lighthouse-cli": "^0.1.2",
-    "mocha": "^7.0.0",
+    "mocha": "^11.7.5",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
